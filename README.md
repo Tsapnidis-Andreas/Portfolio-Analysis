@@ -82,3 +82,8 @@ and assuming the risk free rate is equal to 2%<br>
 
 ![1](https://github.com/user-attachments/assets/561ccc80-a41f-432a-aa0f-5d3f247c2a7b)
 ![2](https://github.com/user-attachments/assets/a9c4f19d-8058-441f-93d0-22febcbffbef)
+
+# Disclaimer
+This project serves educational purposes only<br>
+Under no circumstances should it be used as an investing tool
+
