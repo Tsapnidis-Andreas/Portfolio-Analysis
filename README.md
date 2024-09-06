@@ -19,27 +19,34 @@ Python <br>
 [Xlsxwriter](https://pypi.org/project/XlsxWriter/#:~:text=XlsxWriter%20is%20a%20Python%20module%20for)<br>
 # Portfolio Analysis and Optimization
 ## How to use
-Install the necessary libraries stated above<br>
-Initialize:<br>
-The list containig the tickers of the stock<br>
-The risk free rate<br>
-The path(the directory where the excel and the png files will be saved)<br>
+How to use<br>
 Execute the program <br>
+Select portfolio analysis or portfolio optimization <br>
+Enter the tickers of the stocks (and the corresponding weights in case you selected portfolio analysis)<br>
+Press 'OK'<br>
+
 
 ## How it works
-### The code entails:
-Pulling data from yahoo finance via the yfinance Python library<br>  
-Calculating the daily log returns for each stock<br>
-Calculating the average daily return and the daily standard deviation for each stock<br>
-Annualizing the average return and the standard deviation<br>
-Generating random portfolios each with a different combination of weights<br>
-Plotting the portfolios<br>
-Identifying the portfolio with the lowest standard deviation for each level of return<br>
-Plotting the optimal portfolios and constructing the efficient frontier<br>
-Identifying the optimal portfolio ie the one with the highest sharpe ratio<br>
-Constructing the Capital Market Line<br> 
-Saving the optimal portfolios as an excel file<br> 
-Saving the chart as a png file<br> 
+### Portfolio Analysis
+#### The code entails
+Pulling data from yahoo finance through the ...... Python library <br>
+Calculating the daily returns for each stock <br>
+Calculating the average daily return and the daily standard deviation of each stock <br> 
+Annualizing these values <br>
+Calculating the portfolio's expected return and standard deviation<br>
+Calculating the sharpe ratio<br>
+Obtaining the portfolio's beta and alpha through a linear regression(the S&P500 index serves as the market portfolio)<br>
+Saving all the data as an excel file <br>
+
+### Portfolio Optimization 
+#### The code entails
+Pulling data from yahoo finance through the ...... Python library <br>
+Calculating the daily returns <br>
+Calculating the average daily return and the daily standard deviation of each stock <br>
+Annualizing these values <br>
+Identifying the optimal portfolio ie the one that maximizes the sharpe ratio <br>
+Analyzing the optimal portfolio as described above <br>
+
 
 ## Example
 ![1](https://github.com/user-attachments/assets/ffde93e5-3168-491f-97c6-e3ea0b115367)
