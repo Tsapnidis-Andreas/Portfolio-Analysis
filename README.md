@@ -64,7 +64,7 @@ The path(the directory where the excel and the png files will be saved)<br>
 Execute the program <br>
 
 ## How it works
-### The code entails:
+The code entails:<br>
 Pulling data from yahoo finance via the yfinance Python library<br>  
 Calculating the daily log returns for each stock<br>
 Calculating the average daily return and the daily standard deviation for each stock<br>
