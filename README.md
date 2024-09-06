@@ -28,7 +28,7 @@ Press 'OK'<br>
 ## How it works
 ### Portfolio Analysis
 The code entails: <br>
-Pulling data from yahoo finance through the ...... Python library <br>
+Pulling data from yahoo finance via the yfinance Python library <br>
 Calculating the daily returns for each stock <br>
 Calculating the average daily return and the daily standard deviation of each stock <br> 
 Annualizing these values <br>
@@ -39,7 +39,7 @@ Saving all the data as an excel file <br>
 
 ### Portfolio Optimization 
 The code entails:<br>
-Pulling data from yahoo finance through the ...... Python library <br>
+Pulling data from yahoo finance via the yfinance Python library <br>
 Calculating the daily returns <br>
 Calculating the average daily return and the daily standard deviation of each stock <br>
 Annualizing these values <br>
