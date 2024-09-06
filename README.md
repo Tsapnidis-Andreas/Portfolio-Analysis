@@ -26,7 +26,8 @@ Press 'OK'<br>
 
 
 ## How it works
-#### The code entails
+### Portfolio Analysis
+The code entails: <br>
 Pulling data from yahoo finance through the ...... Python library <br>
 Calculating the daily returns for each stock <br>
 Calculating the average daily return and the daily standard deviation of each stock <br> 
@@ -37,7 +38,7 @@ Obtaining the portfolio's beta and alpha through a linear regression(the S&P500 
 Saving all the data as an excel file <br>
 
 ### Portfolio Optimization 
-#### The code entails
+The code entails:<br>
 Pulling data from yahoo finance through the ...... Python library <br>
 Calculating the daily returns <br>
 Calculating the average daily return and the daily standard deviation of each stock <br>
