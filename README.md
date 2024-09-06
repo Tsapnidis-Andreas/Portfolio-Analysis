@@ -26,7 +26,6 @@ Press 'OK'<br>
 
 
 ## How it works
-### Portfolio Analysis
 #### The code entails
 Pulling data from yahoo finance through the ...... Python library <br>
 Calculating the daily returns for each stock <br>
