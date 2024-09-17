@@ -19,6 +19,7 @@ Python <br>
 [Xlsxwriter](https://pypi.org/project/XlsxWriter/#:~:text=XlsxWriter%20is%20a%20Python%20module%20for)<br>
 # Portfolio Analysis and Optimization
 ## How to use
+Install the necessary libraries mentioned above<br>
 Execute the program <br>
 Select portfolio analysis or portfolio optimization <br>
 Enter the tickers of the stocks (and the corresponding weights in case you selected portfolio analysis)<br>
@@ -56,7 +57,7 @@ Analyzing the optimal portfolio as described above <br>
 # Constructing The Efficient Frontier and Drawing the CML
 
 ## How to use
-Install the necessary libraries stated above<br>
+Install the necessary libraries mentioned above<br>
 Initialize:<br>
 The list containig the tickers of the stock<br>
 The risk free rate<br>
