@@ -49,10 +49,10 @@ Analyzing the optimal portfolio as described above <br>
 
 
 ## Example
-![1](https://github.com/user-attachments/assets/ffde93e5-3168-491f-97c6-e3ea0b115367)
-![2](https://github.com/user-attachments/assets/1f9b97e0-031e-4cd7-8590-1c1f3113942f)
-![3](https://github.com/user-attachments/assets/0db5e409-d0f3-4e4b-8b36-c6f70927bb96)
-![4](https://github.com/user-attachments/assets/0b0d0f2f-706b-4cfc-93ed-34e08feaf5a2)
+![Στιγμιότυπο οθόνης 2024-09-04 123142](https://github.com/user-attachments/assets/69da3ea1-f497-4e99-8026-5f9ec7599f8a)
+![Στιγμιότυπο οθόνης 2024-09-04 123307](https://github.com/user-attachments/assets/4eb45087-06e5-44fa-8a77-92b3c48b10f8)
+![Στιγμιότυπο οθόνης 2024-09-04 123331](https://github.com/user-attachments/assets/608f7380-1aa3-432c-bde6-dc03457c24e7)
+
 
 # Constructing The Efficient Frontier and Drawing the CML
 
@@ -84,11 +84,14 @@ This is the output after running the program for the following stocks:<br>
 msft<br>
 jpm<br>
 ko<br>
+![1](https://github.com/user-attachments/assets/600424e1-b575-4ff7-b44b-41f84f6825cf)
+
+![2](https://github.com/user-attachments/assets/bb242a76-465c-4181-8099-f1e545a15b3e)
+
+
+
 
 and assuming the risk free rate is equal to 2%<br>
-
-![1](https://github.com/user-attachments/assets/561ccc80-a41f-432a-aa0f-5d3f247c2a7b)
-![2](https://github.com/user-attachments/assets/a9c4f19d-8058-441f-93d0-22febcbffbef)
 
 # Disclaimer
 This project serves educational purposes only<br>
